@@ -4,7 +4,10 @@ import static java.lang.String.format;
 import java.util.*;
 import java.util.List;
 import javax.swing.*;
-
+/*
+                      *********************WRITTEN BY MOSTAFA*********************
+                        ********************(STUCKINREVERSE)********************
+*/
 public class Snake extends JPanel implements Runnable {
     enum Dir {
         up(0, -1), right(1, 0), down(0, 1), left(-1, 0);
